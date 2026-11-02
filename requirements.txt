@@ -1,0 +1,13 @@
+# FININT — Financial Intelligence & Predictive Analytics System
+# Install with: pip install -r requirements.txt
+
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+shap
+networkx
+jupyter
+ipykernel
